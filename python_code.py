@@ -10,7 +10,7 @@
 # * Please refer to the homework text for any implementation detail. Though you are somewhat expected to abide by the comments in the below cells, they are mainly just provided for guidance. That is, as long as you are not completely off this structure and your work pattern is understandable and traceable, it is fine. For instance, you do not have to implement a particular function within a cell just because the comment directs you to do so.
 # * This document is also your report. Show your work.
 
-# ###  Kazım Halil KESMÜK 2200765031
+# ###  Kazım Halil KESMÜK
 
 # ## 1. Implementing a CNN from Scratch (60 points)
 
